@@ -1,0 +1,6 @@
+{
+  "name": "CHRIST WORLD – Church Information & Communication Management System",
+  "description": "Modern, responsive church website and comprehensive administration management system for CHRIST WORLD. Knowing Christ • Growing in Christ • Sharing Christ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
